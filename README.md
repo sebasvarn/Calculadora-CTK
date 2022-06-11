@@ -1,5 +1,5 @@
 # Calculadora-CTK
-##librerias:
+librerias:
 
 *tkinter
 
