@@ -3,6 +3,6 @@
 
 *tkinter
 
-
-pip install <libreria>
+en consola
+pip install (libreria)
  * customtkinter
